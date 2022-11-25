@@ -1,0 +1,1 @@
+sys-boot/grub -themes GRUB_PLATFORMS: -efi-64
