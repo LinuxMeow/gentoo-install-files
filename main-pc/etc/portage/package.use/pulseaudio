@@ -1,0 +1,2 @@
+media-sound/pulseaudio -bluetooth daemon glib jack -ofono-headset
+
